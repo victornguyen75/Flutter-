@@ -1,11 +1,12 @@
 # Flutter, the Dumb Twitter
 ## A Ruby on Rails Twitter Clone
+## Here is the Flutter Mascot!
+![feature-image](https://cdn.discordapp.com/attachments/338530149593251850/467520539209105408/unknown.png)
+
 #### Original creator: Justalevel
 #### This is a fork of justalever's master branch. 
 [Download the source code](https://github.com/justalever/twittter)
 Continue reading on [web-crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-a-twitter-clone/)
-
-![feature-image](https://cdn.discordapp.com/attachments/338530149593251850/467520539209105408/unknown.png)
 
 ### Features being used
 
