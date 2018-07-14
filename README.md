@@ -5,6 +5,8 @@
 
 [Download the source code](https://github.com/justalever/twittter)
 
+![feature-image](https://cdn.discordapp.com/attachments/338530149593251850/465336045475594240/JPEG_20180707_205911.jpg)
+
 This app will most notably demonstrate a user role system giving your web application and navtive application feel all within the browser. I'll be going bit faster than the [previous build](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments/) as it was more of a foundational exercise where I explained common concepts revolving around the Ruby on Rails ecosystem. We'll make use of Rails generators to help scaffold some of the things I've already covered. If you haven't watched the [first Let's Build](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments/), I invite you to do so in order to understand what we are doing.
 
 ### What we are building
